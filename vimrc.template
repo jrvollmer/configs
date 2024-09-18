@@ -1,0 +1,16 @@
+set nocompatible
+filetype indent on
+syntax enable
+
+set ignorecase
+set hlsearch
+set backspace=indent,eol,start
+set expandtab
+set tabstop=4
+set shiftwidth=4
+set mouse=a
+set number
+set autoindent
+
+colorscheme torte
+
